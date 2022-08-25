@@ -1,0 +1,4 @@
+/thykooapi.ini
+/uwsgi_params
+/nginx.conf
+/gwebsite/db.sqlite3
